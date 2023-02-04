@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>GenesisCloudMirroringImportOccurred</key>
+	<false/>
+	<key>LastTimeZoneName</key>
+	<string>Asia/Ho_Chi_Minh</string>
+	<key>PINMigrated</key>
+	<false/>
+	<key>RestrictionsMigrationVersion</key>
+	<integer>2</integer>
+	<key>ScreenTimeEnabled</key>
+	<false/>
+	<key>UsageGenesisDate</key>
+	<date>2022-07-10T06:37:43Z</date>
+</dict>
+</plist>

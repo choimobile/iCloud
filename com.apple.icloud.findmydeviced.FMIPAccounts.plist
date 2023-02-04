@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addTime</key>
+	<real>1664784460.178580</real>
+	<key>dsid</key>
+	<string></string>
+	<key>enableContext</key>
+	<integer>3</integer>
+	<key>lowBatteryLocate</key>
+	<false/>
+	<key>osVersion</key>
+	<string>15.0</string>
+</dict>
+</plist>
